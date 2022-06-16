@@ -1,3 +1,3 @@
 # Francium-Nuker
-Run Francium.py
-Also, change the chromedriver
+1. Run Francium.py
+2. Also, change the chromedriver
